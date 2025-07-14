@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "name": "Кроссплатформенность",
+      "description": "Cоздавайте веб-приложения и ПО для любых платформ - Android, IOS, Windows, Linux, MacOS, IpadOS.",
+      "iconName": "windows",
+      "href": "/docs/platforms"
+    },
+    {
+      "name": "Универсальность",
+      "description": "Создавайте из заготовок приложения всех основных типов - лендинг, интернет-магазин, новостной портал, СУБД.",
+      "iconName": "window-stack",
+      "href": "/components"
+    },
+    {
+      "name": "Производительность",
+      "description": "Получите преимущества самых современных технологий - скорость, функциональность и отказоустойчивость.",
+      "iconName": "speedometer",
+      "href": "/docs/base"
+    },
+    {
+      "name": "Комфорт использования",
+      "description": "Пользуйтесь с комфортом - об опыте пользователей (UX) и разработчиков (DX) мы позаботились.",
+      "iconName": "emoji-smile",
+      "href": "/docs/ux"
+    },
+    {
+      "name": "Локализация",
+      "description": "Легко и быстро переводите приложения на разные языки, а как пользователь - переключайтесь между ними.",
+      "iconName": "translate",
+      "href": "/docs/localization"
+    },
+    {
+      "name": "Доступность",
+      "description": "Без усилий предоставляйте себе и другим людям с ограниченными возможностями качественные сервисы.",
+      "iconName": "universal-access-circle",
+      "href": "/docs/accessibility"
+    },
+    {
+      "name": "Поддержка печати",
+      "description": "Легко, качественно и без искажений печатайте текстовые страницы и документы, экономя при этом ресурсы принтера.",
+      "iconName": "printer",
+      "href": "/docs/printing"
+    },
+    {
+      "name": "Разработка без кода",
+      "description": "Создавайте и настраивайте страницы без знаний кода - редактируя текстовые файлы форматов Markdown и JSON.",
+      "iconName": "file-earmark-text",
+      "href": "/docs/markdown"
+    },
+    {
+      "name": "Поддержка на всех этапах",
+      "description": "Обращайтесь за помощью 24/7, или вовсе поручите всю разработку нам - на выгодных условиях.",
+      "iconName": "headset",
+      "href": "/support"
+    }
+  ],
+  "clients": [
+    {
+      "imgSource": "/clients/ripo.jpg",
+      "description": "Сайт образовательной организации, использующий элементы EQUIX/Лендинг, EQUIX/Магазин и EQUIX/Данные"
+    },
+    {
+      "imgSource": "/clients/getvip.svg",
+      "description": "Админ-панель сервиса премиум-такси, целиком созданная с помощью EQUIX/Данные"
+    },
+    {
+      "imgSource": "/clients/equix24.svg",
+      "description": "Конструктор сайтов на технологиях WordPress, Битрикс, AmoCRM, 1C, использующий элементы EQUIX/Данные"
+    },
+    {
+      "imgSource": "/clients/in-yan-data.svg",
+      "description": "Проприетарное ПК-приложение системы управления базами данных (СУБД) для предприятия, созданное на базе EQUIX/Данные"
+    },
+    {
+      "imgSource": "/clients/bloyd.svg",
+      "description": "Веб-приложение и админ-панель туристического маркетплейса, созданные с применением EQUIX/Магазин и EQUIX/Данные"
+    },
+    {
+      "imgSource": "/clients/identi.jpg",
+      "description": "Веб-приложение для администрирования умного дома, созданное на основе EQUIX/Данные"
+    },
+    {
+      "imgSource": "/clients/airmaster.svg",
+      "description": "Интернет-магазин кондиционерной техники и связанных услуг, основанный на EQUIX/Лендинг и EQUIX/Магазин"
+    },
+    {
+      "imgSource": "/clients/cfpi.svg",
+      "description": "Сайт новостного издания юридической организации, целиком построенный на EQUIX/Блог"
+    },
+    {
+      "imgSource": "/clients/ripo.jpg",
+      "description": "Сайт-визитка образовательной организации, целиком созданная с помощью EQUIX/Лендинг"
+    }
+  ]
+}
