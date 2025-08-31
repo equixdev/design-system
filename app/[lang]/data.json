@@ -1,0 +1,48 @@
+{
+  "features": {
+    "crossPlatform": { "iconName": "windows", "href": "/docs/platforms" },
+    "versatility": { "iconName": "window-stack", "href": "/components" },
+    "performance": { "iconName": "speedometer", "href": "/docs/base" },
+    "comfort": { "iconName": "emoji-smile", "href": "/docs/ux" },
+    "localization": { "iconName": "translate", "href": "/docs/localization" },
+    "accessibility": {
+      "iconName": "universal-access-circle",
+      "href": "/docs/accessibility"
+    },
+    "printSupport": { "iconName": "printer", "href": "/docs/printing" },
+    "noCodeDevelopment": {
+      "iconName": "file-earmark-text",
+      "href": "/docs/markdown"
+    },
+    "support": { "iconName": "headset", "href": "/support" }
+  },
+  "clients": {
+    "ripo": {
+      "imgSource": "/clients/ripo.jpg"
+    },
+    "getvip": {
+      "imgSource": "/clients/getvip.svg"
+    },
+    "equix24": {
+      "imgSource": "/clients/equix24.svg"
+    },
+    "inYanData": {
+      "imgSource": "/clients/in-yan-data.svg"
+    },
+    "bloyd": {
+      "imgSource": "/clients/bloyd.svg"
+    },
+    "identi": {
+      "imgSource": "/clients/identi.jpg"
+    },
+    "airmaster": {
+      "imgSource": "/clients/airmaster.svg"
+    },
+    "cfpi": {
+      "imgSource": "/clients/cfpi.svg"
+    },
+    "ripoVizitka": {
+      "imgSource": "/clients/ripo.jpg"
+    }
+  }
+}

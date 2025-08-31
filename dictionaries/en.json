@@ -1,0 +1,256 @@
+{
+  "common": {
+    "nothingFound": "Nothing found",
+    "message": "Enter password 12345678",
+    "page": "Page",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "actions": "Actions",
+    "confirm": "Confirm deletion",
+    "createdWith": "Created with",
+    "equixTemplate": "EQUIX template",
+    "equixLanding": "EQUIX/Landing"
+  },
+  "docs": {
+    "title": "EQUIX Documentation",
+    "components": {
+      "title": "Components",
+      "description": "Below you can see all EQUIX components - the building blocks from which applications are created.",
+      "code": "Code",
+      "result": "Result",
+      "howItWorks": "How it works"
+    }
+  },
+  "landing": {
+    "title": "EQUIX — Don't bother creating application interfaces.",
+    "heading": "Don't bother creating application interfaces.",
+    "description": "Design system for fast and easy design creation and turning it into a working website, mobile or desktop application.",
+    "navigation": {
+      "home": "Home",
+      "components": "Components",
+      "docs": "Documentation",
+      "pricing": "Pricing",
+      "about": "About",
+      "profile": "Profile"
+    },
+    "sections": {
+      "tryOurSolutions": "Try our solutions",
+      "dontKnowWhereToStart": "Don't know where to start?",
+      "ourAdvantages": "Our advantages",
+      "ourComponents": "Our components",
+      "realizedProjects": "Realized projects"
+    },
+    "flow": {
+      "tryAnyTemplate": "Try any template",
+      "likedIt": "Liked it?",
+      "registerAndChooseRole": "Register and choose your role",
+      "programmerOrDesigner": "Programmer or designer?",
+      "buyFullAccess": "Get full access to the system and technical support",
+      "otherEmployee": "Other employee?",
+      "contactUs": "Contact us - we will quickly and inexpensively create any application for you",
+      "notSuitable": "Not suitable?",
+      "tryMore": "Try more!"
+    },
+    "footer": {
+      "supportedByFasie": "Project supported by the Foundation for Assistance to Small Innovative Enterprises under the Student Startup program of the federal project Platform of University Technological Entrepreneurship"
+    }
+  },
+  "hero": {
+    "searchPlaceholder": "What are we looking for?",
+    "options": "Options",
+    "saveAs": "Save as",
+    "closeSavedFiles": "Close saved files",
+    "privacyPolicyAgreement": "I agree to the privacy policy",
+    "clickableHint": "You can click on everything above!"
+  },
+  "features": {
+    "crossPlatform": {
+      "name": "Cross-platform",
+      "description": "Create web applications and software for any platforms - Android, IOS, Windows, Linux, MacOS, IpadOS."
+    },
+    "versatility": {
+      "name": "Versatility",
+      "description": "Create applications of all main types from templates - landing page, online store, news portal, DBMS."
+    },
+    "performance": {
+      "name": "Performance",
+      "description": "Get the benefits of the most modern technologies - speed, functionality and fault tolerance."
+    },
+    "comfort": {
+      "name": "Comfort of use",
+      "description": "Use comfortably - we took care of both user experience (UX) and developer experience (DX)."
+    },
+    "localization": {
+      "name": "Localization",
+      "description": "Easily and quickly translate applications into different languages, and as a user - switch between them."
+    },
+    "accessibility": {
+      "name": "Accessibility",
+      "description": "Effortlessly provide yourself and other people with disabilities with quality services."
+    },
+    "printSupport": {
+      "name": "Print support",
+      "description": "Easily, efficiently and without distortion print text pages and documents, while saving printer resources."
+    },
+    "noCodeDevelopment": {
+      "name": "No-code development",
+      "description": "Create and configure pages without coding knowledge - by editing text files in Markdown and JSON formats."
+    },
+    "support": {
+      "name": "Support at all stages",
+      "description": "Contact us for help 24/7, or entrust all development to us - on favorable terms."
+    }
+  },
+  "templates": {
+    "landing": {
+      "name": "Landing",
+      "description": "Create an informational and interactive website or application",
+      "about": "In all interfaces, as a rule, pages that are not too overloaded with interactivity and functions predominate - text documents, description and presentation screens, business card pages, dashboards and various multifunctional main screens of large applications. To create all these interfaces, we created EQUIX/Landing - the simplest in use and functionality, but at the same time the most scalable and universal template, providing frameworks for main pages (with header and footer), side menus for navigation through similar pages, blocks and cards for text and media content (images, video, audio, etc.) and much more."
+    },
+    "blog": {
+      "name": "Blog",
+      "description": "Create a news portal, blog or forum",
+      "about": "A blog (internet journal of events, internet diary), like a news portal and forum, is a website whose main content is records regularly added by users containing text, images or multimedia. The EQUIX/Blog template provides all the main components that make up such a site: a catalog of news/records/posts/messages/other publications; a separate page for each publication; a page for creating a publication; a personal account with authorization."
+    },
+    "data": {
+      "name": "Data",
+      "description": "Create a file manager, admin panel or database management system",
+      "about": "Since any software is most often used not for simply obtaining information, but for some interaction with it and data processing, the most important screens/pages are those that contain functions and interactive content. Their examples are both a simple menu for navigating the site and a registration form, as well as full-fledged file managers, admin panels, dashboards with metrics, database management systems, CRM, CMS, SAAS, etc. EQUIX/Data is our most complex and important product, within which hundreds of components and functions for any interactivity were developed - fields for entering different data, their forms, navigation solutions, but most importantly - algorithms for automatic generation from data in JSON formats of pages that allow these data to be changed in every possible way."
+    },
+    "shop": {
+      "name": "Shop",
+      "description": "Create an online store or application for ordering and paying for services",
+      "about": "Commercial websites and applications are perhaps the most profitable compared to any other types, so for any company and any project in this area, the speed of development and operation of its result, fault tolerance and clarity for users are critically important. EQUIX/Shop mainly focuses on the technical side of the issue - image optimization, SEO, page loading, responsiveness and clarity of what is happening for the user, and also offers the main components of such applications - interactive cards and their blocks, shopping cart, acquiring form, as well as banners and sections suitable for advertising and other offers."
+    }
+  },
+  "templatesTryOut": {
+    "tryOut": "Try out",
+    "tryOutDescription": "Below are interactive code editors and a small copy of this site created with this code, which you can edit and in real time see how changes are made in EQUIX/{templateName}",
+    "tryOutDisabled": "EQUIX/{templateName} is still under development, so at the moment, unfortunately, you cannot try it out. However, other templates are already available:"
+  },
+  "clients": {
+    "ripo": "Website of an educational organization using elements of EQUIX/Landing, EQUIX/Shop and EQUIX/Data",
+    "getvip": "Admin panel of a premium taxi service, entirely created using EQUIX/Data",
+    "equix24": "Website builder on WordPress, Bitrix, AmoCRM, 1C technologies, using elements of EQUIX/Data",
+    "inYanData": "Proprietary PC application of a database management system (DBMS) for an enterprise, created on the basis of EQUIX/Data",
+    "bloyd": "Web application and admin panel of a tourism marketplace, created using EQUIX/Shop and EQUIX/Data",
+    "identi": "Web application for smart home administration, created on the basis of EQUIX/Data",
+    "airmaster": "Online store of air conditioning equipment and related services, based on EQUIX/Landing and EQUIX/Shop",
+    "cfpi": "Website of a legal organization's news publication, entirely built on EQUIX/Blog",
+    "ripoVizitka": "Business card website of an educational organization, entirely created using EQUIX/Landing"
+  },
+  "tools": {
+    "colorScheme": {
+      "title": "Color scheme generator",
+      "description": "On this page you can create a color scheme for an application developed using EQUIX. To do this, you need to choose the general tone (hue) of the interface - for example, red or lime. As a rule, the tone of the logo is chosen. The result of generating the scheme needs to be inserted into tailwind.config.js.",
+      "generateButton": "Generate color scheme",
+      "result": "Result"
+    }
+  },
+  "email": {
+    "from": "EQUIX Bot bot@equix.ru",
+    "authSubject": "One-time code for logging into EQUIX",
+    "authText": "Your code {code}"
+  },
+  "company": {
+    "name": "EQUIX",
+    "owner": "LLC EQUIX · TIN 6320077469 · OGRN 1236300030383 · KPP 632001001"
+  },
+  "about": {
+    "title": "About us",
+    "description": "We create software that significantly simplifies creative work for designers and monotonous tasks for developers, thus allowing the creation of high-quality digital application solutions as simply and quickly as possible, speeding up and reducing the cost of the process.",
+    "problemTitle": "The problem we solve",
+    "problemText": [
+      "Since there is a risk of foreign companies leaving Russia and banning the use of their products in Russia, when developing graphical interfaces one has to rely on",
+      "domestic developments",
+      ", but none of them offers a solution that covers all stages of development from designing the appearance to deploying the product for user access; as well as allowing the creation of interfaces for all platforms - web applications, mobile applications and PC software."
+    ],
+    "productsTitle": "Products",
+    "productsText": "The EQUIX design system includes a family of products (EQUIX/Data, EQUIX/Shop, EQUIX/Blog, EQUIX/Landing) with open source code, which can be used by designers and developers, and in the absence of a full-fledged development team at their workplace - they can use our services to create software based on EQUIX.",
+    "whyUsTitle": "Why us?",
+    "whyUsList": [
+      "EQUIX allows you to create web applications and software for any platforms (Android, IOS, Windows, Linux, MacOS, IpadOS);",
+      "EQUIX includes solutions for all main types of applications - Website (Landing), Online store, News portal (Blog), DBMS.",
+      "EQUIX uses the most modern technologies, ensuring high speed, functionality and fault tolerance of applications;",
+      "EQUIX takes care of user experience (UX) and developer experience (DX), therefore it provides the most optimal solutions for typical tasks and documentation for developers, which increases development speed; as well as carefully designed approaches based on research in the field of digital device usage for users, which increases the comfort of using services."
+    ]
+  },
+  "contact": {
+    "orderCallback": "You can order a callback, and based on the data you filled out in your personal account, we will contact you promptly",
+    "orderCallbackButton": "Order callback",
+    "contactDirectly": "You can also not wait and contact us directly for consultation on EQUIX or evaluation of your project",
+    "phone": "Phone",
+    "email": "Email",
+    "telegram": "Telegram",
+    "callbackReady": "Ready! Wait for a response"
+  },
+  "user": {
+    "loggedInAs": "You are logged in as",
+    "logout": "Logout",
+    "fillData": "Fill in the data",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "learnMore": "To learn more about using EQUIX in your projects, choose your role in development",
+    "roles": {
+      "it": {
+        "name": "Designer, programmer, software architect or other IT specialist"
+      },
+      "nonIt": {
+        "name": "Customer, project manager or other specialist"
+      }
+    },
+    "continue": "Continue"
+  },
+  "auth": {
+    "enterPassword": "Enter password",
+    "password": "Password",
+    "login": "Login",
+    "wrongPassword": "Wrong password",
+    "loading": "Loading...",
+    "enterCode": "Enter the six-digit code sent to your email",
+    "continue": "Continue",
+    "registerOrLogin": "To register or login, enter your email"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "description": "Choose the right plan for your project",
+    "getEverything": "Get everything.",
+    "subscriptionDescription": "Annual subscription gives personal access to all developments available now, as well as those we will add in the future.",
+    "price": "999 ₽ per year",
+    "purchase": "Purchase",
+    "features": {
+      "components": "More than 30 components",
+      "templates": "2 templates, EQUIX/Landing and EQUIX/Data (2 more will be available soon)",
+      "documentation": "Comprehensive documentation",
+      "tools": "Additional tools (for example, for generating color themes)",
+      "functions": "Additional functions that simplify development",
+      "figma": "UI-kit in Figma with all components and templates",
+      "npm": "NPM library with all components, templates and functions",
+      "githubNpm": "GitHub NPM library with history, development progress and bug fixes",
+      "githubWebsite": "GitHub website equix.ru with all examples of EQUIX application",
+      "support": "Technical support",
+      "updates": "Free updates",
+      "projects": "Unlimited number of projects"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "description": "Manage your profile and settings",
+    "contact": {
+      "title": "We will create any software for you",
+      "description": "If you are not a technical specialist in the field of development, EQUIX can still be useful to you. We can:",
+      "services": [
+        "Find sufficiently competent specialists in the labor market;",
+        "Train you or your subordinates in EQUIX development, even if they are non-core.",
+        "Offer you our specialists and their services."
+      ],
+      "companyDescription": "LLC Equix provides services for the development of simple websites, complex web applications and mobile and desktop programs for any platforms. Our advantages, templates and examples of projects we have already completed can be seen earlier on the main page. Thanks to the EQUIX framework, we work quickly and efficiently, and the final applications turn out to be attractive to users, high-quality, fast, reliable and functional.",
+      "advantages": "Our advantages",
+      "cooperation": "Ready to cooperate?"
+    }
+  }
+}
